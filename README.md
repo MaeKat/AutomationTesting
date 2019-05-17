@@ -9,3 +9,4 @@ This repo is for my personal learning of Selenium Web Driver in C#
    ## For learning everything else in Selenium in C#
     https://www.guru99.com/selenium-tutorial.html
     
+    Also add NUnit to the test file

@@ -10,3 +10,6 @@ This repo is for my personal learning of Selenium Web Driver in C#
     https://www.guru99.com/selenium-tutorial.html
     
     Also add NUnit to the test file
+
+   ## Info for waits
+   https://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#explicit-and-implicit-waits
